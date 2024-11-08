@@ -1,1 +1,0 @@
-#aqui va el init de modelos
