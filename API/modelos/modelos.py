@@ -1,0 +1,1 @@
+#aqui va el code de la creacion de las tablas de la base de datos junto con la serializacion
